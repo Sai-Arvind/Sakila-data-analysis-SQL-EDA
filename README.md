@@ -91,8 +91,8 @@ The **Sakila Database** is a sample dataset provided by MySQL, featuring tables 
 Passionate about exploring data and deriving insights that help businesses make data-driven decisions.
 
 📧 **Saiarvind5081@gmail.com**  
-🔗 [LinkedIn] : https://www.linkedin.com/in/sai-arvind-13bb921a0/
-🔗 [GitHub] : https://github.com/Sai-Arvind
+🔗 LinkedIn : https://www.linkedin.com/in/saiarvindofficial/
+🔗 GitHub : https://github.com/Sai-Arvind
 
 ---
 
