@@ -38,6 +38,21 @@ The **Sakila Database** is a publicly available sample dataset provided by MySQL
 
 ---
 
+## 🧭 Entity Relationship Diagram (ERD)
+
+The diagram below represents the structure of the **Sakila Movie Rental Database**, 
+showing how various entities such as films, customers, stores, staff, and payments are interconnected.
+
+It provides a clear view of **primary–foreign key relationships**, helping understand 
+how queries join multiple tables during analysis.
+
+![Sakila ER Diagram](<img width="799" height="521" alt="Sakila - ERD" src="https://github.com/user-attachments/assets/9a46b974-2e0e-4133-959e-ce7b147a7afd" />
+)
+
+
+---
+
+
 ## ⚙️ Tools & Technologies
 - 🐬 **MySQL / MySQL Workbench** → Query execution & visualization  
 - 🧮 **SQL** → Joins, subqueries, window functions, aggregations  
@@ -73,6 +88,24 @@ The **Sakila Database** is a publicly available sample dataset provided by MySQL
 
 ---
 
+## 📊 Power BI Dashboard
+
+To visualize the findings from the Sakila SQL analysis, an interactive **Power BI dashboard** was created.  
+It highlights key business metrics such as **store-wise revenue**, **top genres**, **rental patterns**, and **customer performance**.
+
+### 🔹 Dashboard Highlights:
+- 💰 Total Revenue by Store & Month  
+- 🎬 Top Movie Categories and Ratings  
+- 👥 Customer Activity & High-Value Segments  
+- 🕒 Rental Duration Trends and Late Returns  
+- 🌍 Regional Revenue Distribution  
+
+📷 **Dashboard Preview:**
+![Sakila Power BI Dashboard](<img width="804" height="459" alt="dvd_dashboard" src="https://github.com/user-attachments/assets/4da66910-c027-4aa4-b190-411923fd4882" />
+)
+
+---
+
 ## 💡 Recommendations
 - Reward **top-performing staff** to boost engagement  
 - Launch **customer loyalty programs** to retain repeat renters  
@@ -86,23 +119,34 @@ The **Sakila Database** is a publicly available sample dataset provided by MySQL
 ## 🗂️ Repository Structure
 
 ```
-Sakila-data-analysis-SQL-EDA/
+Sakila-Data-Analysis-SQL-EDA/
 │
-├── sql_scripts/ # SQL queries used for analysis
-│ ├── 01_store_revenue.sql
-│ ├── 02_movie_category.sql
-│ ├── 03_top_customers.sql
-│ ├── 04_rental_analysis.sql
-│ ├── 05_staff_performance.sql
-│ ├── 06_geo_revenue.sql
-│ ├── 07_inventory_status.sql
+├── 📜 README.md                     # Full project documentation (you already wrote)
 │
-├── reports/ # Analysis reports & visualizations
-│ ├── sakila_eda_summary.xlsx
-│ ├── key_insights.md
+├── 🗄️ SQL_Scripts/                  # Folder for SQL analysis queries
+│   ├── 01_store_revenue.sql
+│   ├── 02_movie_category.sql
+│   ├── 03_top_customers.sql
+│   ├── 04_rental_analysis.sql
+│   ├── 05_staff_performance.sql
+│   ├── 06_geo_revenue.sql
+│   ├── 07_inventory_status.sql
 │
-├── README.md # Project documentation
-└── LICENSE # License information
+├── 📊 PowerBI_Dashboard/            # Folder for dashboards & visuals
+│   ├── Sakila_Dashboard.pbix        # Power BI file
+│   ├── Dashboard_Screenshot.png     # Screenshot of dashboard (for README preview)
+│
+├── 📁 ER_Diagram/                   # Database schema visualization
+│   ├── Sakila_ERD.png
+│
+├── 📄 Data_Samples/                 # Optional: sample tables (CSV exports)
+│   ├── top_customers.csv
+│   ├── store_revenue.csv
+│
+└── 📘 Docs/                         # Optional: supporting notes or queries
+    ├── project_notes.txt
+    └── insights_summary.txt
+
 
 ```
 
