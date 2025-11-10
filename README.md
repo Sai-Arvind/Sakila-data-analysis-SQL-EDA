@@ -46,8 +46,8 @@ showing how various entities such as films, customers, stores, staff, and paymen
 It provides a clear view of **primary–foreign key relationships**, helping understand 
 how queries join multiple tables during analysis.
 
-![Sakila ER Diagram](<img width="799" height="521" alt="Sakila - ERD" src="https://github.com/user-attachments/assets/9a46b974-2e0e-4133-959e-ce7b147a7afd" />
-)
+<img width="799" height="521" alt="Sakila - ERD" src="https://github.com/user-attachments/assets/4ffc3c2f-1090-4a1a-88f1-1b94ca97054d" />
+
 
 
 ---
@@ -101,8 +101,7 @@ It highlights key business metrics such as **store-wise revenue**, **top genres*
 - 🌍 Regional Revenue Distribution  
 
 📷 **Dashboard Preview:**
-![Sakila Power BI Dashboard](<img width="804" height="459" alt="dvd_dashboard" src="https://github.com/user-attachments/assets/4da66910-c027-4aa4-b190-411923fd4882" />
-)
+<img width="804" height="459" alt="dvd_dashboard" src="https://github.com/user-attachments/assets/47a21175-d7d7-405e-aad0-c83d2c132566" />
 
 ---
 
