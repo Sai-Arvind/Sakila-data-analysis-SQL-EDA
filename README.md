@@ -1,5 +1,7 @@
 # 🎬 Sakila Data Analysis (SQL EDA)
-![sakila-pic](https://github.com/user-attachments/assets/5d28f155-720a-4998-b0d2-e08ee514e0de)
+<img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/08dcb68b-263c-44cf-99a5-9b5e7b8aa6d1" />
+
+
 
 ### Exploring Movie Rentals, Revenue & Customer Insights with MySQL
 
